@@ -1,7 +1,7 @@
 # DiscoverDocker   
 
 ## Description   
-Docker-based solution for [Discover1.1](https://github.com/lucadesabato/Discover1.1) pipeline for bacterial characterization.
+Docker-based implementation of the [Discover1.1](https://github.com/lucadesabato/Discover1.1) pipeline for bacterial characterization.
    
 ## Installation   
 <code>git clone https://github.com/garcia-nacho/DiscoveryDocker </code>  
