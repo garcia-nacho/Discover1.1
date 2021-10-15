@@ -17,7 +17,7 @@ Navigate to the folder where the fastq files are located and run the following c
    
 <code>docker run -it --rm -v $(pwd):/home/docker/Discovery/Fastq garcianacho/discoveryfhi</code>
    
-Old versions of docker might require the flag *--privileged* to run    
-Multiuser systems might require the flag *-u 1000* (or other uid) to run   
+**Older versions of docker** might require the flag *--privileged* to run.    
+**Multiuser systems** might require the flag *-u 1000* (or other uid) to run.   
 
 ### Note that the current version supports only illumina sequences.
