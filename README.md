@@ -1,5 +1,7 @@
 # DiscoveryDocker   
 
+### This version is not longer updated here, for an updated version of the pipeline visit [FHI's github](https://github.com/folkehelseinstituttet/DiscoveryDocker/tree/main)   
+
 ## Description   
 Docker-based implementation of the [Discover1.1](https://github.com/lucadesabato/Discover1.1) pipeline for bacterial characterization.
    
